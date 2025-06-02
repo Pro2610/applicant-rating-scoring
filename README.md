@@ -55,4 +55,6 @@ This approach can be applied to:
 ## ✅ Author
 
 Developed by [Yana Prozhuhan] as a personal data analytics project.  
-Feel free to fork, adapt or contribute!# applicant-rating-scoring
+Feel free to fork, adapt or contribute!
+
+# applicant-rating-scoring
